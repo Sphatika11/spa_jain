@@ -16,12 +16,12 @@ project:
   tiles:        "1x1"
 
   source_files:
-    - "src/tt_um_sphatika11_minitage.v"
-    - "src/ghr.v"
-    - "src/bimodal.v"
-    - "src/tage_table.v"
-    - "src/loop_predictor.v"
-    - "src/predictor_core.v"
+    - "tt_um_sphatika11_minitage.v"
+    - "ghr.v"
+    - "bimodal.v"
+    - "tage_table.v"
+    - "loop_predictor.v"
+    - "predictor_core.v"
 
   top_module:   "tt_um_sphatika11_minitage"
 
