@@ -1,3 +1,4 @@
+yaml_version: 6
 project:
   title:        "Mini-TAGE Branch Predictor (1x1, single TAGE table)"
   author:       "Sphatika"
