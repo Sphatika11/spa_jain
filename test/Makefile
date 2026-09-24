@@ -2,7 +2,7 @@
 SIM ?= icarus
 TOPLEVEL_LANG ?= verilog
 
-VERILOG_SOURCES += $(PWD)/../src/tt_um_mini_tage.v
+VERILOG_SOURCES += $(PWD)/../src/tt_um_sphatika11_minitage.v
 VERILOG_SOURCES += $(PWD)/../src/ghr.v
 VERILOG_SOURCES += $(PWD)/../src/bimodal.v
 VERILOG_SOURCES += $(PWD)/../src/tage_table.v
