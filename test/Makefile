@@ -9,7 +9,7 @@ VERILOG_SOURCES += $(PWD)/../src/tage_table.v
 VERILOG_SOURCES += $(PWD)/../src/loop_predictor.v
 VERILOG_SOURCES += $(PWD)/../src/predictor_core.v
 
-TOPLEVEL = tt_um_mini_tage
+TOPLEVEL = tt_um_sphatika11_minitage
 MODULE   = test
 
 include $(shell cocotb-config --makefiles)/Makefile.sim
